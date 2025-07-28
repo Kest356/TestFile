@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b2b2d3c47383c134e89f37b63e456dfd
+timeCreated: 1516262000
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Raitons Demo
+  fontNames:
+  - Raitons Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
